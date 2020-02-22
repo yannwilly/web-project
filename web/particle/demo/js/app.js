@@ -16,18 +16,19 @@ particlesJS('win_class',
   {
     "particles": {
       "number": {
-        "value": 80,
+        "value": 2000,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value": ["#ffffff","#f62459","#f7ca18","#1f3a93"]
+        "value": ["#ffffff",]
         //"#f62459","#f7ca18","#1f3a93"
       },
       "shape": {
-        "type": ["circle","triangle","star"],
+        "type": ["circle",],
+        //"triangle","star"
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -62,7 +63,7 @@ particlesJS('win_class',
         }
       },
       "line_linked": {
-        "enable": true,
+        "enable": false,
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,

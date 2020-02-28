@@ -22,3 +22,26 @@ body{
 	width: 100%;
 	left: 40%;
 }
+
+h1 {
+  font-weight: normal;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+}
+.container {
+  color: #ffffff;
+  margin: 0 auto;
+  padding: 0.5rem;
+  text-align: center;
+}

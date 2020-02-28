@@ -14,17 +14,16 @@ body{
 	 background-position: center center;
 }
 
-.carte{
+.cont{
 	position: absolute;
+	background-color: lightblue;
 	opacity: 0.9;
-	text-align: center;
 	top: 35%;
-	width: 100%;
-	left: 40%;
-}
-
-h1 {
-  font-weight: normal;
+	left: 25%;
+	color: #000000;
+  margin: 0 auto;
+  padding: 0.5rem;
+  text-align: center;
 }
 
 .cont li {
@@ -35,13 +34,7 @@ h1 {
   text-transform: uppercase;
 }
 
-li span {
+.cont li span {
   display: block;
   font-size: 4.5rem;
-}
-.cont {
-  color: #ffffff;
-  margin: 0 auto;
-  padding: 0.5rem;
-  text-align: center;
 }

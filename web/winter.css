@@ -27,7 +27,7 @@ h1 {
   font-weight: normal;
 }
 
-li {
+.container li {
   display: inline-block;
   font-size: 1.5em;
   list-style-type: none;
